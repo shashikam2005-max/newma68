@@ -1,0 +1,6 @@
+{
+  "name": "StyleCue AI Stylist",
+  "description": "An AI personal stylist website featuring outfit recommendations, real-time store stock matching, style quizzes, and customizable light and dark themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
